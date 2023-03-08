@@ -18,5 +18,5 @@
 
 **Сайт**
 
-* [Путешествие по России] (https://valeriater.github.io/russian-travel/)
+* https://valeriater.github.io/russian-travel/
 
